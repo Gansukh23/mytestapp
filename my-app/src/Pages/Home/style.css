@@ -1,0 +1,22 @@
+.navbar {
+  list-style: none;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #4c6ca0;
+  padding: 0;
+  margin: 0;
+  overflow: auto;
+}
+.navbar li {
+  float: left;
+}
+.navbar li a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+  font-size: 14px;
+}
+.navbar li a:hover {
+  background-color: #17386e;
+}
